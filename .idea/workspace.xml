@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb1c71aa-516e-47d0-be7f-daec5464a5f1" name="Default Changelist" comment="" />
+    <list default="true" id="cb1c71aa-516e-47d0-be7f-daec5464a5f1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inventory_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_manager.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="inventory_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -51,36 +54,36 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\breto\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1594802251403">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594802251403" />
-    <state width="1899" height="291" key="GridCell.Tab.0.bottom" timestamp="1594801861963">
+    <state width="1899" height="291" key="GridCell.Tab.0.bottom" timestamp="1594855248561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594801861963" />
-    <state width="1899" height="291" key="GridCell.Tab.0.center" timestamp="1594801861963">
+    <state width="1899" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594855248561" />
+    <state width="1899" height="291" key="GridCell.Tab.0.center" timestamp="1594855248561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594801861963" />
-    <state width="1899" height="291" key="GridCell.Tab.0.left" timestamp="1594801861963">
+    <state width="1899" height="291" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594855248561" />
+    <state width="1899" height="291" key="GridCell.Tab.0.left" timestamp="1594855248561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594801861963" />
-    <state width="1899" height="291" key="GridCell.Tab.0.right" timestamp="1594801861963">
+    <state width="1899" height="291" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594855248561" />
+    <state width="1899" height="291" key="GridCell.Tab.0.right" timestamp="1594855248561">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594801861963" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1594802265083">
+    <state width="1899" height="291" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594855248561" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1594854523678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594802265083" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594799978169">
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1594854523678" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594854483060">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594799978169" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1594854483060" />
   </component>
 </project>

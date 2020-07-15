@@ -1,11 +1,24 @@
-print("How many people are in your household?");
+import math
+
+print("Welcome to our Hurricane Preparedness App")
+print("How many people are in your household?")
 peopleInHouse = int(input())
-print("How many days will you be sheltering in place?");
+print("How many days will you be sheltering in place?")
 numDays = int(input())
 
-print("How many water bottles do you have?");
-waterBottles = int(input());
-if waterBottles >= (peopleInHouse * numDays):
-    print("You have enough water bottles.");
-else:
-    print("You don't have enough water bottles. You need ", ((peopleInHouse*numDays)-waterBottles)), " more watter bottles";
+print("How many gallon jugs of water do you have?")
+waterGallons = int(input())
+print("How many individual water bottles do you have, excluding gallon jugs?")
+waterBottles = int(input())
+neededGallons = (peopleInHouse * numDays * 3)
+totalWater = (waterGallons + (waterBottles * 0.13203125))
+
+
+def enough_water():
+    if totalWater >= neededGallons:
+        print("You have enough water.")
+    else:
+        print("You don't have enough water. You need an additional:", math.ceil(neededGallons - totalWater), "gallons.")
+
+
+enough_water()
