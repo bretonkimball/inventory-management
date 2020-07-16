@@ -1,4 +1,5 @@
 import math
+import sys
 
 print("Welcome to our Hurricane Preparedness App")
 print("How many people are in your household?")
@@ -18,7 +19,14 @@ def enough_water():
     if totalWater >= neededGallons:
         print("You have enough water.")
     else:
-        print("You don't have enough water. You need an additional:", math.ceil(neededGallons - totalWater), "gallons.")
+        print("You don't have enough water. You need an additional:", math.ceil(neededGallons - totalWater), "gallons, or:", math.ceil((neededGallons - totalWater) / 0.13203125), "bottles of water.")
 
 
-enough_water()
+def output_text():
+    sys.stdout = open("test.txt", "w")
+    enough_water()
+    sys.stdout.close()
+
+
+
+output_text()
