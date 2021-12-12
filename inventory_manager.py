@@ -109,7 +109,8 @@ def hurricane_evacuation():
 def hurricane_choice():
     hChoice = input("Are you evacuating or sheltering in place? Please enter either 'evacuating' or 'sheltering'.")
     if hChoice == "evacuating":
-        hurricane_evacuation()
+        #hurricane_evacuation()
+        print("run evacuation script")
     elif hChoice == "sheltering":
         hurricane_shelter()
     else:
@@ -117,6 +118,20 @@ def hurricane_choice():
         hurricane_choice()
 
 
+def hurricane_CAT():
+    hCAT = input("What Category is the storm? Please enter either TS, 1, 2, 3, 4, or 5.")
+    if hCAT == "TS":
+        hurricane_choice()
+    elif hCAT == "1" or "2" or "3":
+        hurricane_choice()
+    elif hCAT == "4" or "5":
+        print("We strongly recommend you evacuate for a Category 4 or 5 storm.")
+        hurricane_choice()
+    else:
+        print("Please enter either TS, 1, 2, 3, 4, or 5.")
+        hurricane_CAT()
+
+
 def main():
     print("Hurricane Survival - Inventory Management v0.3")
-    hurricane_choice()
+    hurricane_CAT()
