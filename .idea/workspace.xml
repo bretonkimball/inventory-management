@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb1c71aa-516e-47d0-be7f-daec5464a5f1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Inventory_Report_Evac.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inventory_Report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Inventory_Report_Shelter_In_Place.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/inventory_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/inventory_manager.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +16,16 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1eiLySR2UYwASvQkAtiFtAAnDv0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -56,27 +61,34 @@
   <component name="SvnConfiguration">
     <configuration>C:\Users\breto\AppData\Roaming\Subversion</configuration>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1639108531686">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="690" y="263" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1639108531686" />
-    <state width="1882" height="288" key="GridCell.Tab.0.bottom" timestamp="1639325400111">
+    <state width="1882" height="288" key="GridCell.Tab.0.bottom" timestamp="1639328395353">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1882" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1639325400111" />
-    <state width="1882" height="288" key="GridCell.Tab.0.center" timestamp="1639325400111">
+    <state width="1882" height="288" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1639328395353" />
+    <state width="1882" height="288" key="GridCell.Tab.0.center" timestamp="1639328395353">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1882" height="288" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1639325400111" />
-    <state width="1882" height="288" key="GridCell.Tab.0.left" timestamp="1639325400111">
+    <state width="1882" height="288" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1639328395353" />
+    <state width="1882" height="288" key="GridCell.Tab.0.left" timestamp="1639328395353">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1882" height="288" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1639325400111" />
-    <state width="1882" height="288" key="GridCell.Tab.0.right" timestamp="1639325400111">
+    <state width="1882" height="288" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1639328395353" />
+    <state width="1882" height="288" key="GridCell.Tab.0.right" timestamp="1639328395353">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1882" height="288" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1639325400111" />
+    <state width="1882" height="288" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1639328395353" />
+    <state x="700" y="268" key="run.anything.popup" timestamp="1639327125175">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="700" y="268" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1639327125175" />
     <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1639323813342">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

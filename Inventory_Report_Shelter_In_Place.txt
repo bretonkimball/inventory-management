@@ -1,4 +1,5 @@
-You have enough water.
+You don't have enough water. You need an additional: 21 gallons, or: 153 bottles of water.
+
 You need a total of: 24 meals.
 This is the equivalent of 16000 calories, or:
 3 bags of Huel meal replacement, or:
